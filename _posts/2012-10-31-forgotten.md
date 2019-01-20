@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Forgotten
-published: false
 tags:
   - fiction
 redirect_from:
