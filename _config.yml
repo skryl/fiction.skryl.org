@@ -13,7 +13,7 @@ plugins:
 exclude: [vendor]
 
 # Setup
-title:               Thoughts
+title:               Fiction
 tagline:             '@skryl.org'
 description:         'Musings on code and technology'
 url:                 http://fiction.skryl.org
