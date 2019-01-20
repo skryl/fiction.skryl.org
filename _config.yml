@@ -16,8 +16,8 @@ exclude: [vendor]
 title:               Thoughts
 tagline:             '@skryl.org'
 description:         'Musings on code and technology'
-url:                 http://blog.skryl.org
-repository:          'skryl/blog.skryl.org'
+url:                 http://fiction.skryl.org
+repository:          'skryl/fiction.skryl.org'
 baseurl:             ''
 paginate:            5
 host:                localhost
