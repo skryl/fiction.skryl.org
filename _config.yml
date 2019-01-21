@@ -15,7 +15,7 @@ exclude: [vendor]
 # Setup
 title:               Fiction
 tagline:             '@skryl.org'
-description:         'Musings on code and technology'
+description:         'Stories from the lives of others'
 url:                 http://fiction.skryl.org
 repository:          'skryl/fiction.skryl.org'
 baseurl:             ''
